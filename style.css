@@ -1,0 +1,25 @@
+body {
+    background-image: url("https://cdn.w600.comps.canstockphoto.com.br/lista-cheque-desenhos_csp10450530.jpg");
+    background-size: cover;
+}
+h1 { 
+    font-size: xx-large;
+    color: blueviolet;
+    border-bottom-style: inset;
+    text-align: center;
+ }
+.tarefa-selecionada { 
+    color: red; 
+    font-style: italic; 
+}
+.tarefa-normal {
+     color: black; 
+    }
+label {
+    font-style: oblique;
+    font-size: 24pt;
+    color: darkred;
+}
+p {
+    text-align: center;
+}
